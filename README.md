@@ -14,14 +14,6 @@ El proyecto aplica habilidades de **limpieza de datos**, **análisis exploratori
   - Informe final con conclusiones y recomendaciones.
 - `diccionario_datos.md`: Diccionario de datos explicando el significado de cada columna.
 
-## Tecnologías y librerías utilizadas
-- Python 3
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook / Google Colab
-
 ## Estructura del análisis
 1. **Carga y limpieza de datos**: importación desde JSON, manejo de valores nulos y duplicados, normalización de columnas.
 2. **Análisis exploratorio de datos (EDA)**:
@@ -38,6 +30,14 @@ El proyecto aplica habilidades de **limpieza de datos**, **análisis exploratori
 - Automatizar pagos y fomentar contratos a largo plazo.
 - Incentivar servicios adicionales que aumenten la fidelización.
 - Implementar alertas tempranas para clientes de alto riesgo de Churn.
+
+## Tecnologías y librerías utilizadas
+- Python 3
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook / Google Colab
 
 ## Cómo ejecutar
 1. Clonar el repositorio:  
